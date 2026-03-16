@@ -3,42 +3,42 @@
         {
             "id" : "1",
             "name" : "logo",
-            "url" : "/images/logo.svg"
+            "url" : "/HomePage/images/logo.svg"
         },
         {
             "id" : "2",
             "name" : "icon-menu-close",
-            "url" : "/images/icon-menu-close.svg"
+            "url" : "/HomePage/images/icon-menu-close.svg"
         },
         {
             "id" : "3",
             "name" : "icon-menu",
-            "url" : "/images/icon-menu.svg"
+            "url" : "/HomePage/images/icon-menu.svg"
         }, 
         {
             "id" : "4",
             "name" : "image-gaming-growth",
-            "url" : "/images/image-gaming-growth.jpg"
+            "url" : "/HomePage/images/image-gaming-growth.jpg"
         }, 
         {
             "id" : "5",
             "name" : "image-retro-pcs",
-            "url" : "/images/image-retro-pcs.jpg"
+            "url" : "/HomePage/images/image-retro-pcs.jpg"
         }, 
         {
             "id" : "6",
             "name" : "image-top-laptops",
-            "url" : "/images/image-top-laptops.jpg"
+            "url" : "/HomePage/images/image-top-laptops.jpg"
         }, 
         {
             "id" : "7",
             "name" : "image-web-3-desktop",
-            "url" : "/images/image-web-3-desktop.jpg"
+            "url" : "/HomePage/images/image-web-3-desktop.jpg"
         }, 
         {
             "id" : "8",
             "name" : "image-web-3-mobile",
-            "url" : "/images/image-web-3-mobile.jpg"
+            "url" : "/HomePage/images/image-web-3-mobile.jpg"
         }
 
     ]
