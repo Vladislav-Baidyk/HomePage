@@ -23,7 +23,7 @@ Check out the live demo here:
 
 ## 🎥 Preview
 
-![Project Preview](./path-to-your-screenshot.jpg) *(додай скріншот у папку з проектом і вкажи шлях тут)*
+![Project Demo](./public/demo.gif)
 
 ---
 
