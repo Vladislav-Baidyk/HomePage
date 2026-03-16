@@ -1,4 +1,4 @@
-![demo](https://github.com/user-attachments/assets/5a6c95f3-5ad5-4292-90f8-637503c7c65f)# News Homepage 📰✨
+# News Homepage 📰✨
 
 This is a solution to the [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/news-homepage-H1r1S1bBq). The project is a responsive homepage for a news site, built with React and focused on clean layout and mobile-first design.
 
