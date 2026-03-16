@@ -19,7 +19,7 @@ This is a solution to the [Frontend Mentor challenge](https://www.frontendmentor
 ## 📦 Live Demo
 
 Check out the live demo here:
-🔗 [GitHub Pages Demo](https://yourusername.github.io/your-repo-name/) *(заміни на своє посилання)*
+🔗 https://vladislav-baidyk.github.io/HomePage/
 
 ## 🎥 Preview
 
